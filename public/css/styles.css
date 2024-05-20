@@ -26,3 +26,12 @@ article {
 article h2 {
   margin-top: 0;
 }
+
+article h2 a {
+  text-decoration: none;
+  color: #333;
+}
+
+article h2 a:hover {
+  text-decoration: underline;
+}
